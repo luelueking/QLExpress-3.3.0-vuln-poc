@@ -41,7 +41,7 @@ public class Test1 {
 
 ```
 
-![截屏2023-01-28 10.43.05](/Users/zhchen/Library/Application%20Support/typora-user-images/%E6%88%AA%E5%B1%8F2023-01-28%2010.43.05.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/8248fac22d1e46b0a0161885224fece9.png)
 
 #### 修复建议
 
@@ -85,7 +85,7 @@ public class Test2 {
 
 ```
 
-![截屏2023-01-28 12.31.01](/Users/zhchen/Desktop/%E6%88%AA%E5%B1%8F2023-01-28%2012.31.01.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/ea53466810b0416b9c994965c8a48d80.png)
 
 #### 修复建议
 
